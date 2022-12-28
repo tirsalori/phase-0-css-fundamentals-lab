@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, nav, figure {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+  background-color: rgb(211, 167, 251);
+}
+
+p#featured-property {
+  width: 800px;
+  text-align: center;
+}
